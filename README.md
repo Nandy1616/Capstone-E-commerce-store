@@ -23,9 +23,8 @@ This project uses the following tools and technologies for data processing, anal
 📊 Data Handling & Analysis Tools
 Microsoft Excel / Google Sheets – Used for basic data cleaning, sorting, and analysis
 
-## 🧹 Data Cleaning & Preparation
+## 🧹 Data Cleaning & Preparation⁷
 The following steps were performed to make the data usable:
-Checked the data to understand columns, types, and errors
 Handled missing values by filling or removing empty data
 Removed duplicate records to avoid incorrect results
 Converted data types (e.g., text to date, string to number)
